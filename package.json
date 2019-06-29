@@ -1,0 +1,23 @@
+{
+  "name": "gittraining",
+  "version": "1.0.0",
+  "description": "first description",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aladonaris/my_training.git"
+  },
+  "author": "Vlad Kuprikov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aladonaris/my_training/issues"
+  },
+  "homepage": "https://github.com/Aladonaris/my_training#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-sass": "^4.0.2"
+  }
+}
